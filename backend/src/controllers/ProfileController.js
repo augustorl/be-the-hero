@@ -8,6 +8,6 @@ module.exports = {
     const incidents = await connection('incidents')
       .where('ong_id', ong_id)
       .select('*');
-    return response.hson(incidents);
+    return response.json(incidents);
   },
 };
