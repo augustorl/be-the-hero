@@ -16,7 +16,7 @@
 
 ## 💻 Projeto
 
-Be The Hero é uma aplicação que, nesse momento em que solidariedade se faz necessário, busca juntar pessoas que precisam de boas ações com pessoas dispostas a ajudarem.
+Be The Hero é uma aplicação que conecta pessoas que precisam de ajuda, com pessoas dispostas a ajudar.
 
 <h1 align="center">
     <img alt="Login-Page" title="Login-Page" src=".github/preview.jpg" width="500px" />
